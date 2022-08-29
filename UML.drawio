@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T14:18:52.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.796 Yowser/2.5 Safari/537.36" etag="7iu4HzBfyOTcH6y2kZ8G" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T14:33:51.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.796 Yowser/2.5 Safari/537.36" etag="slNU60o0ag-d5M2-l2Ms" version="20.2.7" type="github">
   <diagram id="XsnP9Gn-Je08Z1eBndXY" name="Страница 1">
-    <mxGraphModel dx="946" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,6 +151,81 @@
         </mxCell>
         <mxCell id="f1ICiX7RHzptKYZJ7hzD-2" value="Диаграмма взаимодействия отправка CRM Формы" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="335" y="680" width="325" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-3" value="Новый клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="706" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="110" y="800" width="10" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-5" value="Сайт" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-6" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="f1ICiX7RHzptKYZJ7hzD-7" target="f1ICiX7RHzptKYZJ7hzD-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1130" as="sourcePoint" />
+            <mxPoint x="440" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="250" y="850" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-8" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="f1ICiX7RHzptKYZJ7hzD-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="1140" as="sourcePoint" />
+            <mxPoint x="255" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.2;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="f1ICiX7RHzptKYZJ7hzD-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="850" as="sourcePoint" />
+            <mxPoint x="440" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-10" value="1. Выбирает CRM-форму&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="820" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.2;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="939.01" as="sourcePoint" />
+            <mxPoint x="248" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-12" value="2. Заполняет CRM-форму&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="909.01" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-13" value="Валидация &lt;br&gt;иниформации" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.2;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260.0000000000002" y="876" as="sourcePoint" />
+            <mxPoint x="387.9999999999998" y="876.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-15" value="1. Выбирает CRM-форму&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="845" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-16" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="f1ICiX7RHzptKYZJ7hzD-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1130" as="sourcePoint" />
+            <mxPoint x="395" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="390" y="850" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-18" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="f1ICiX7RHzptKYZJ7hzD-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="1140" as="sourcePoint" />
+            <mxPoint x="395" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.156;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="f1ICiX7RHzptKYZJ7hzD-12" target="f1ICiX7RHzptKYZJ7hzD-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="900" as="sourcePoint" />
+            <mxPoint x="360" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
