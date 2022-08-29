@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T14:33:51.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.796 Yowser/2.5 Safari/537.36" etag="slNU60o0ag-d5M2-l2Ms" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T14:35:19.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.796 Yowser/2.5 Safari/537.36" etag="alV60srKDM1Yy8r43vI9" version="20.2.7" type="github">
   <diagram id="XsnP9Gn-Je08Z1eBndXY" name="Страница 1">
     <mxGraphModel dx="1051" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
         <mxCell id="f1ICiX7RHzptKYZJ7hzD-12" value="2. Заполняет CRM-форму&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="909.01" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f1ICiX7RHzptKYZJ7hzD-13" value="Валидация &lt;br&gt;иниформации" style="html=1;" vertex="1" parent="1">
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-13" value="Авторизация" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="760" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f1ICiX7RHzptKYZJ7hzD-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.2;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -203,7 +203,7 @@
             <mxPoint x="387.9999999999998" y="876.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f1ICiX7RHzptKYZJ7hzD-15" value="1. Выбирает CRM-форму&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="f1ICiX7RHzptKYZJ7hzD-15" value="1. 1. Открытие CRM-форму&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="845" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f1ICiX7RHzptKYZJ7hzD-16" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="f1ICiX7RHzptKYZJ7hzD-17">
